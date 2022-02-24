@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10253" started-at="2022-02-24T18:33:18 IST" finished-at="2022-02-24T18:33:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10253" started-at="2022-02-24T18:33:18 IST" finished-at="2022-02-24T18:33:29 IST">
+      <class name="Practice.Selenium.MultipleWindowsDemo">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Practice.Selenium.MultipleWindowsDemo@59906517]" name="initialize" is-config="true" duration-ms="8898" started-at="2022-02-24T18:33:18 IST" finished-at="2022-02-24T18:33:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="MultipleWindowTest()[pri:0, instance:Practice.Selenium.MultipleWindowsDemo@59906517]" name="MultipleWindowTest" duration-ms="607" started-at="2022-02-24T18:33:27 IST" finished-at="2022-02-24T18:33:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleWindowTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Practice.Selenium.MultipleWindowsDemo@59906517]" name="tearDown" is-config="true" duration-ms="693" started-at="2022-02-24T18:33:28 IST" finished-at="2022-02-24T18:33:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Practice.Selenium.MultipleWindowsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
